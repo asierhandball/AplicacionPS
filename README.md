@@ -1,1 +1,3 @@
 # AplicacionPS
+
+## NO LA LIEIS A LA HORA DE HACER PUSH
